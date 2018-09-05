@@ -1,5 +1,6 @@
 # rPrior_syntheticStudy
 This project investigates properties of regionalized priors based on a collection of synthetic spatial random fields.
+Intended for section 3.1 in regionalized prior paper.
 
 
 ## Structure of project
