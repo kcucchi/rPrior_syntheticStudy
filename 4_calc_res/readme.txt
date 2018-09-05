@@ -1,0 +1,1 @@
+I stopped while working on calc_results_loc.R, adding the computation for KLD for site-specific mean. Finish that by testing on results present on local computer, then modify and send to nersc, then make the plots.
